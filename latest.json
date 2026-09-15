@@ -1,12 +1,12 @@
 {
-  "version": "0.1.5",
-  "release_date": "2026-09-15T19:07:20.806477",
-  "installer_name": "HorusCapture_Setup_v0.1.5.exe",
-  "download_url": "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.5/HorusCapture_Setup_v0.1.5.exe",
-  "local_relative_url": "v0.1.5/HorusCapture_Setup_v0.1.5.exe",
-  "file_size_bytes": 49115414,
-  "file_size_mb": 46.84,
-  "sha256": "95fa922644e32c50b6f4474ae1c760365d7c663e4f26005712bf2f45131593a9",
-  "changelog": "Solucion completa de audio: ganancia pre-amplificada limpia (+6dB / 2.0x), buffer estable de 1024 muestras (21.3ms) sin tirones/cortes, purga activa de backlog para cero latencia de video y 60 FPS estables.",
+  "version": "0.1.6",
+  "release_date": "2026-09-15T19:25:09.737698",
+  "installer_name": "HorusCapture_Setup_v0.1.6.exe",
+  "download_url": "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.6/HorusCapture_Setup_v0.1.6.exe",
+  "local_relative_url": "v0.1.6/HorusCapture_Setup_v0.1.6.exe",
+  "file_size_bytes": 49138557,
+  "file_size_mb": 46.86,
+  "sha256": "6f642a4d979c1fe0f5366fd024d483ec656fa05c0a67c3a98a7c9b96925debc9",
+  "changelog": "Deteccion inteligente de capturadora por nombre (Elgato HD60 X), resolviendo indices DirectShow dinamicos y evitando seleccion de webcams.",
   "mandatory": false
 }
