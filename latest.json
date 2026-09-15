@@ -1,11 +1,12 @@
-﻿{
-    "version":  "0.1.0",
-    "release_date":  "2026-09-15T04:21:26.086212",
-    "installer_name":  "HorusCapture_Setup_v0.1.0.exe",
-    "download_url":  "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.0/HorusCapture_Setup_v0.1.0.exe",
-    "file_size_bytes":  48825800,
-    "file_size_mb":  46.56,
-    "sha256":  "e7acd6694a041e3c43a4945f07a0efc6c13fdd37c7e14685a63bbe6d5c83a6f1",
-    "changelog":  "Horus Capture v0.1.0\n- Motor Zero-Lag optimizado con DirectShow y WASAPI\n- Instalador nativo de Windows y mÃ³dulo de Auto-ActualizaciÃ³n integrado\n- EliminaciÃ³n de ejecuciÃ³n por scripts .bat",
-    "mandatory":  false
+{
+  "version": "0.1.0",
+  "release_date": "2026-09-15T04:43:12.677200",
+  "installer_name": "HorusCapture_Setup_v0.1.0.exe",
+  "download_url": "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.0/HorusCapture_Setup_v0.1.0.exe",
+  "local_relative_url": "v0.1.0/HorusCapture_Setup_v0.1.0.exe",
+  "file_size_bytes": 48824118,
+  "file_size_mb": 46.56,
+  "sha256": "01a4793337ae3d046e17c6d0827c845eecd9081e9ffbcee876b6f36b44eeca1d",
+  "changelog": "Horus Capture v0.1.0\n- Motor Zero-Lag optimizado con DirectShow y WASAPI\n- Instalador nativo de Windows y módulo de Auto-Actualización integrado\n- Eliminación de ejecución por scripts .bat",
+  "mandatory": false
 }
