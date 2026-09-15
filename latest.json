@@ -1,12 +1,12 @@
 {
-  "version": "0.1.4",
-  "release_date": "2026-09-15T18:49:40.776699",
-  "installer_name": "HorusCapture_Setup_v0.1.4.exe",
-  "download_url": "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.4/HorusCapture_Setup_v0.1.4.exe",
-  "local_relative_url": "v0.1.4/HorusCapture_Setup_v0.1.4.exe",
-  "file_size_bytes": 49107147,
-  "file_size_mb": 46.83,
-  "sha256": "12a8295b296c05af518c89681f3b870fc7e2f523a8f216b3883c58b9844686f9",
-  "changelog": "Reemplazo de cv2.waitKey por cv2.pollKey no bloqueante (eliminando demora de 18ms) y cola elastica de doble buffer. 60.0 FPS solidos sostenidos con OBS.",
+  "version": "0.1.5",
+  "release_date": "2026-09-15T19:07:20.806477",
+  "installer_name": "HorusCapture_Setup_v0.1.5.exe",
+  "download_url": "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.5/HorusCapture_Setup_v0.1.5.exe",
+  "local_relative_url": "v0.1.5/HorusCapture_Setup_v0.1.5.exe",
+  "file_size_bytes": 49115414,
+  "file_size_mb": 46.84,
+  "sha256": "95fa922644e32c50b6f4474ae1c760365d7c663e4f26005712bf2f45131593a9",
+  "changelog": "Solucion completa de audio: ganancia pre-amplificada limpia (+6dB / 2.0x), buffer estable de 1024 muestras (21.3ms) sin tirones/cortes, purga activa de backlog para cero latencia de video y 60 FPS estables.",
   "mandatory": false
 }
