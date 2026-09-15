@@ -1,12 +1,12 @@
 {
-  "version": "0.1.6",
-  "release_date": "2026-09-15T19:25:09.737698",
-  "installer_name": "HorusCapture_Setup_v0.1.6.exe",
-  "download_url": "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.6/HorusCapture_Setup_v0.1.6.exe",
-  "local_relative_url": "v0.1.6/HorusCapture_Setup_v0.1.6.exe",
-  "file_size_bytes": 49138557,
-  "file_size_mb": 46.86,
-  "sha256": "6f642a4d979c1fe0f5366fd024d483ec656fa05c0a67c3a98a7c9b96925debc9",
-  "changelog": "Deteccion inteligente de capturadora por nombre (Elgato HD60 X), resolviendo indices DirectShow dinamicos y evitando seleccion de webcams.",
+  "version": "0.1.7",
+  "release_date": "2026-09-15T19:40:41.941964",
+  "installer_name": "HorusCapture_Setup_v0.1.7.exe",
+  "download_url": "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.7/HorusCapture_Setup_v0.1.7.exe",
+  "local_relative_url": "v0.1.7/HorusCapture_Setup_v0.1.7.exe",
+  "file_size_bytes": 49149771,
+  "file_size_mb": 46.87,
+  "sha256": "98c53f65d63a3bb83964d1906aca9f24b530c04c3fa11d05da91b128c00b907c",
+  "changelog": "Sistema de Calibracion de Color en tiempo real (Gamma, Contraste, Luminosidad, Saturacion, Tonalidad, Opacidad) + Filtro RTX HDR dinamico y Nitidez DLSS CAS. Pipeline de buffer triple para 60 FPS fijos sin caidas en OBS.",
   "mandatory": false
 }
