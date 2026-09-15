@@ -1,12 +1,12 @@
 {
-  "version": "0.1.3",
-  "release_date": "2026-09-15T18:28:03.347971",
-  "installer_name": "HorusCapture_Setup_v0.1.3.exe",
-  "download_url": "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.3/HorusCapture_Setup_v0.1.3.exe",
-  "local_relative_url": "v0.1.3/HorusCapture_Setup_v0.1.3.exe",
-  "file_size_bytes": 49109666,
+  "version": "0.1.4",
+  "release_date": "2026-09-15T18:49:40.776699",
+  "installer_name": "HorusCapture_Setup_v0.1.4.exe",
+  "download_url": "https://raw.githubusercontent.com/montillarc/Horus_Capture_Updates/main/v0.1.4/HorusCapture_Setup_v0.1.4.exe",
+  "local_relative_url": "v0.1.4/HorusCapture_Setup_v0.1.4.exe",
+  "file_size_bytes": 49107147,
   "file_size_mb": 46.83,
-  "sha256": "3fc524fffd19ef98784489b13054b96633dbdc3b1a6fe133bc9bb9385a2288d3",
-  "changelog": "Eliminacion de cuello de botella de escalado en modo ventana (3.3ms), resolucion de conflicto USB con fuentes DirectShow duplicadas en OBS, 60 FPS estables.",
+  "sha256": "12a8295b296c05af518c89681f3b870fc7e2f523a8f216b3883c58b9844686f9",
+  "changelog": "Reemplazo de cv2.waitKey por cv2.pollKey no bloqueante (eliminando demora de 18ms) y cola elastica de doble buffer. 60.0 FPS solidos sostenidos con OBS.",
   "mandatory": false
 }
